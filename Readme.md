@@ -2,7 +2,8 @@
 
 Embedded JavaScript templates.
 
-[![Build Status](https://travis-ci.org/visionmedia/ejs.png)](https://travis-ci.org/visionmedia/ejs)
+This is just a npm release for @jasper-lyons's Pull request: https://github.com/tj/ejs/pull/156
+This PR adds dynamic includes to EJS 1.0
 
 - - -
 NOTE: Version 2 of EJS makes some breaking changes with this version (notably,
